@@ -22,7 +22,6 @@ D:\GitHub\RestWith.Net5\RestWith.Net5\RestWith.Net5\obj\Debug\net5.0\staticwebas
 D:\GitHub\RestWith.Net5\RestWith.Net5\RestWith.Net5\obj\Debug\net5.0\staticwebassets\RestWith.Net5.StaticWebAssets.xml
 D:\GitHub\RestWith.Net5\RestWith.Net5\RestWith.Net5\obj\Debug\net5.0\scopedcss\bundle\RestWith.Net5.styles.css
 D:\GitHub\RestWith.Net5\RestWith.Net5\RestWith.Net5\obj\Debug\net5.0\RestWith.Net5.RazorTargetAssemblyInfo.cache
-D:\GitHub\RestWith.Net5\RestWith.Net5\RestWith.Net5\obj\Debug\net5.0\RestWith.Net5.csproj.CopyComplete
 D:\GitHub\RestWith.Net5\RestWith.Net5\RestWith.Net5\obj\Debug\net5.0\RestWith.Net5.dll
 D:\GitHub\RestWith.Net5\RestWith.Net5\RestWith.Net5\obj\Debug\net5.0\ref\RestWith.Net5.dll
 D:\GitHub\RestWith.Net5\RestWith.Net5\RestWith.Net5\obj\Debug\net5.0\RestWith.Net5.pdb
